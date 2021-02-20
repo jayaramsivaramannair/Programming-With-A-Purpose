@@ -1,0 +1,9 @@
+/*
+Write a program which prints out the String "Hello, World"
+*/
+
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World");
+    }
+}
